@@ -1,1 +1,13 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.carousel-inner > .item {
+      height: 400px;
+      text-align: center;
+      color: #fff;
+      font-size: 40px;
+      line-height: 400px;
+    }
+    .first-slide { background-color: #ff5733; }
+    .second-slide { background-color: #33c1ff; }
+    .third-slide { background-color: #28a745; }
+    .fourth-slide { background-color: #ffc107; }
+    .fifth-slide { background-color: #6f42c1; }
